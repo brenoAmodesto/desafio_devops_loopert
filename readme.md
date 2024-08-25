@@ -27,6 +27,6 @@
 `.wav`). <br /> 
  </body>
 </html>
-<img src="" alt="">
-<img src=""  alt="">
+<img src="https://github.com/brenoAmodesto/desafio_devops_loopert/blob/main/proxy_reverso.png" alt="">
+<img src="https://github.com/brenoAmodesto/desafio_devops_loopert/blob/main/ponto_de_montagem.png"  alt="">
 
