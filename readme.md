@@ -30,7 +30,7 @@
   instruções claras de como replicar o ambiente:
   - Feita configuração do XML, primeiro configurei em minha máquina pessoal (POPOs / ubuntu based) 
   - Configuração do nginx e proxy reverso / já tinha trabalhado com esse tipo de configuração antes
-  - Configuração do Dockerfile / alguns erros referentes a usuário porém resolvi mudando o a linha ownerchange no XML
+  - Configuração do Dockerfile / alguns erros referentes a usuário porém resolvi mudando a linha ownerchange no XML
   - para replicar esse repositório só clonar e rodar em uma máquina de sua preferência / podendo alterar o mime.types e xml ao seu      gosto. <br />
 
  </body>
