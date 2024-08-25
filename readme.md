@@ -3,6 +3,7 @@
  </head>
  <body>
    <br /> 1 - Configuração do Ambiente:
+   
   - Crie um container Docker para o Icecast.
   - Utilize uma imagem oficial do Icecast ou crie sua própria imagem Docker.
   - Configure o Icecast para rodar no container com as configurações básicas:
