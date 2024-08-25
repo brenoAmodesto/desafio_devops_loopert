@@ -33,7 +33,14 @@
   - Configuração do Dockerfile / alguns erros referentes a usuário porém resolvi mudando a linha ownerchange no XML
   - para replicar esse repositório só clonar e rodar em uma máquina de sua preferência / podendo alterar o mime.types e xml ao seu      gosto. <br />
   
-  - comando: docker run -p 80:80 -p 8000:8000 icecast-nginx 
+  - <p> comandos utilizados: 
+                
+                docker build -t icecast-nginx .
+                docker run -p 80:80 -p 8000:8000 icecast-nginx 
+  
+  
+  
+    </p>
 
  </body>
 </html>
